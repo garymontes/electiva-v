@@ -52,7 +52,6 @@ Este proyecto se publica bajo la licencia MIT. Puedes usar, modificar y distribu
 **Gary Montes Bracamonte**,  
 **Gleiber Garces** y 
 **Juan Espitia**
-Especialista en BI y gestión operativa en entornos regulados  
-[Tu correo o LinkedIn opcional]
+Estudiantes de Ing de Sistemas
 
 ---
