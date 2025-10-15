@@ -47,10 +47,10 @@ Puedes explorar el dashboard publicado directamente en Power BI Service aquí:
 
 Este proyecto se publica bajo la licencia MIT. Puedes usar, modificar y distribuir el contenido con atribución adecuada.
 
-## 🙋 Autor
+## 🙋 Autores
 
-**Gary Montes Bracamonte**,  
-**Gleiber Garces** y 
+**Gary Montes Bracamonte**  
+**Gleiber Garces**   
 **Juan Espitia**
 Estudiantes de Ing de Sistemas
 
