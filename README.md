@@ -52,6 +52,7 @@ Este proyecto se publica bajo la licencia MIT. Puedes usar, modificar y distribu
 **Gary Montes Bracamonte**  
 **Gleiber Garces**   
 **Juan Espitia**
+
 Estudiantes de Ing de Sistemas
 
 ---
